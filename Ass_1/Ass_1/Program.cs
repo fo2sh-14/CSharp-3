@@ -50,6 +50,11 @@
             double newPages = pages;
             #endregion
 
+
+            #region 6st answer
+            double price = 49.99;
+            int newPrice = (int)price;
+            #endregion
         }
     }
 }
