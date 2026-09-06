@@ -55,6 +55,15 @@
             double price = 49.99;
             int newPrice = (int)price;
             #endregion
+
+            #region 7st answer
+            string pagesText = "464";
+            int n = Convert.ToInt32(pagesText);
+            #endregion
+
+
+
+
         }
     }
 }
