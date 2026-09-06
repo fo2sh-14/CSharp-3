@@ -61,6 +61,17 @@
             int n = Convert.ToInt32(pagesText);
             #endregion
 
+            #region 8st answer
+            string yearText = "2023";
+            int yearText2 = int.Parse(yearText);
+
+            string badText = "22";
+            bool flag = int.TryParse(Console.ReadLine(), out int badText2);
+            Console.WriteLine(flag);
+            #endregion
+
+
+
 
 
 
