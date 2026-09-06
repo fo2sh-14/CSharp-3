@@ -44,6 +44,12 @@
 
             #endregion
 
+
+            #region 5st answer
+            pages = 300;
+            double newPages = pages;
+            #endregion
+
         }
     }
 }
