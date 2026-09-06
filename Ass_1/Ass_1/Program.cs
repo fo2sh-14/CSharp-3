@@ -56,7 +56,7 @@
             int newPrice = (int)price;
             #endregion
 
-            #region 7st answer
+            #region 7st answerr
             string pagesText = "464";
             int n = Convert.ToInt32(pagesText);
             #endregion
