@@ -71,6 +71,14 @@
             #endregion
 
 
+            #region 9st answer
+            int pages2 = 464;
+
+            string pagesString = pages2.ToString();
+
+            Console.WriteLine(pagesString);
+            Console.WriteLine(pagesString.GetType());
+            #endregion
 
 
 
