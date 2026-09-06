@@ -14,6 +14,13 @@
             Console.WriteLine($"Title : {Book_01.Title} - Pages : {Book_01.Pages}");
             #endregion
 
+            #region 2st answer
+            Console.WriteLine(Book_01.Pages.ToString());
+            Console.WriteLine(Book_01.Equals(obj));
+            Console.WriteLine(Book_01.GetHashCode());
+            Console.WriteLine(Book_01.GetType().Name);
+            #endregion
+
         }
     }
 }
