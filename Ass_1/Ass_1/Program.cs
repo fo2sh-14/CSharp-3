@@ -26,6 +26,24 @@
             int pages = 468;
             #endregion
 
+            #region 4st answer
+            int x = 10;
+            int y = 0;
+            try
+            {
+                x = x / y;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Cannot divide by zero");
+            }
+            finally
+            {
+                Console.WriteLine("Done");
+            }
+
+            #endregion
+
         }
     }
 }
