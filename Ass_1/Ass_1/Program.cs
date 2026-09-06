@@ -21,6 +21,11 @@
             Console.WriteLine(Book_01.GetType().Name);
             #endregion
 
+            #region 3st answer
+            //int pagess = "468"; ==> compile-time error 
+            int pages = 468;
+            #endregion
+
         }
     }
 }
